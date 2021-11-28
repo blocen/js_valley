@@ -1,0 +1,25 @@
+{
+  "name": "js_valley",
+  "version": "1.0.0",
+  "description": "js valley project on js playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocen/js_valley.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "devrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blocen/js_valley/issues"
+  },
+  "homepage": "https://github.com/blocen/js_valley#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
